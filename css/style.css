@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+label {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    color:#999999;
+    line-height: 12px;  
+}
+
+a {
+    color: #414851 !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 13px;
+    text-decoration: none !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#searchbox {
+    background-color: #f8f7f5;
+}
+
+.searchbar {
+    position: relative;
+    background: none;
+    border: 0px;
+    padding: 0px;
+    width: 95px;
+    text-transform: none;
+    float: none;
+    border-bottom: 1px solid #999999;
+    color: #999999;
+    font-weight: inherit;
+    font-family: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    line-height: 12px;
+}
+
+.fa-search {
+    color: #999999;
+    font-size: 12px;
+    transform: rotate(80deg);
+}
+
+.josephine {
+    position: relative;
+    z-index: 1;
+    line-height: 1em;
+    display: inline-block;
+    color: #444444;
+    text-transform: capitalize;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-family: 'Jost', sans-serif;
+}
