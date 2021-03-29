@@ -22,8 +22,28 @@ ul {
     list-style-type: none;
 }
 
+nav {
+    display: flex;
+}
+
+#topbar {
+    display: flex;
+    background-color: #f8f7f5;
+    height: 134.800px;
+    padding: 0 25px 10px 25px;
+    align-self: center;
+}
+
 #searchbox {
     background-color: #f8f7f5;
+    width: 30vw;
+    align-self: center;
+}
+
+#menu {
+    display: flex;
+    width: 40vw;
+    flex-direction: row;
 }
 
 .searchbar {
