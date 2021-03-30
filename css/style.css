@@ -18,6 +18,14 @@ a {
     text-decoration: none !important;
 }
 
+li a {
+    color: #444444;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    letter-spacing: 0.05em;
+}
+
 ul {
     list-style-type: none;
 }
@@ -44,6 +52,29 @@ nav {
     display: flex;
     width: 40vw;
     flex-direction: row;
+    align-items: center;
+    height: 134.800px;
+}
+
+#main {
+    height: 600.650px;
+    background-color: #F6E0CE;
+    padding-top: 65px;
+}
+
+#socials {
+    display: flex;
+    align-items: center;
+    height: 134.800px;
+}
+
+#socials a {
+    color: #999999 !important;
+    font-size: 12px !important;
+}
+
+.fab:hover, .fas:hover {
+    color: #e8ad9f;
 }
 
 .searchbar {
