@@ -1,1 +1,1 @@
-# wordpress
+# wordp
