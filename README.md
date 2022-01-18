@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/149979845-c27e8b71-be49-48c5-8e95-3f2ae2877ae8.png" alt="wordpress-theme"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>A Venir...</p>
 
 <h2 align=center>📝 Description :</h2>
 
