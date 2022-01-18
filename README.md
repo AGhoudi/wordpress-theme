@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/149979845-c27e8b71-be49-48c5-8e95-3f2ae2877ae8.png" alt="wordpress-theme"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
@@ -21,4 +21,3 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
-![wordpress-theme](https://user-images.githubusercontent.com/27373255/149979845-c27e8b71-be49-48c5-8e95-3f2ae2877ae8.png)
